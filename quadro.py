@@ -52,3 +52,5 @@ print(q1)
 # print(q1.descriviti()) # Ho DELEGATO al quadro il compito di stamparsi
 
 print(q1.__str__())
+
+

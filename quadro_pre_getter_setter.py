@@ -33,3 +33,5 @@ class Quadro:
 # Idem in lettura
 
 # print("Anno:"+str(q1.leggi_anno()))
+
+
