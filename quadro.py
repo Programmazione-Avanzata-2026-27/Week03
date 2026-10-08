@@ -54,3 +54,11 @@ print(q1)
 print(q1.__str__())
 
 
+q1.anno = 5 # Python usa il metodo setter/getter per
+            # accedere agli attributi, se definiti
+
+print(q1.anno)
+
+# Equivalentemente, posso usare i metodi getter, con ()
+q1.anno(5)
+print(q1.anno())
